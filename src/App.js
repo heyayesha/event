@@ -22,6 +22,7 @@ class App extends Component {
           <Featured/>
         </Element>
 
+
         <Element name="venuenfo">
           <VenueNfo/>
         </Element>
