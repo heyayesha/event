@@ -5,8 +5,8 @@ import { Element } from 'react-scroll';
 
 import Header from './components/header_footer/Header'
 import Featured from './components/featured'
-import VenueNfo from './components/VenuNfo'
-import Highlights from './components/highlights'
+import VenueNfo from './components/VenueNfo'
+import Highlights from './components/Highlights'
 import Pricing from './components/pricing'
 import Location from './components/location'
 import Footer from './components/header_footer/Footer'
